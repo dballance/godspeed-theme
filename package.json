@@ -1,0 +1,22 @@
+{
+    "name": "godspeed-theme",
+    "displayName": "Godspeed Theme",
+    "description": "Godspeed Theme",
+    "version": "0.0.1",
+    "publisher": "dballance",
+    "engines": {
+        "vscode": "^1.22.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Godspeed Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Godspeed Theme-color-theme.json"
+            }
+        ]
+    }
+}
